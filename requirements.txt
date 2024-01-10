@@ -1,0 +1,5 @@
+# Este arquivo lista as dependências do projeto
+
+# Bibliotecas de banco de dados
+pymongo==3.11.5
+SQLAlchemy==1.4.22
