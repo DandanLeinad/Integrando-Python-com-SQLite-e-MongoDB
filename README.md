@@ -46,4 +46,4 @@ python main.pyO sistema realizará consultas nas bases de dados MongoDB e SQLAlc
 Contribuições, problemas e solicitações de pull são bem-vindas. Para grandes alterações, por favor, abra uma issue primeiro para discutir o que você gostaria de mudar.
 
 ## Licença
-[MIT](https://choosealicense.com/licenses/mit/)# Integrando-Python-com-SQLite-e-MongoDB
+[MIT](https://choosealicense.com/licenses/mit/)
